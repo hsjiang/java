@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <p1>
+        <age>15</age>
+        <name>小明</name>
+        <gender>男</gender>
+    </p1>
+    <p2>
+        <age>15</age>
+        <name>小红</name>
+        <gender>女</gender>
+    </p2>
+</person>

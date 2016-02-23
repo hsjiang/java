@@ -1,0 +1,32 @@
+1: package com.example.riven_chris;
+2: 
+3: import java.io.*;
+4: 
+5: /**
+6:  * Created by riven_chris on 15/8/4.
+7:  */
+8: public class BasicFileOutPut {
+9:     static String file = "test_files/BasicFileOutPut.out";
+10: 
+11:     public static void main(String[] args) throws Exception {
+12: 
+13:         BufferedReader br = new BufferedReader(new StringReader(
+14:                 BufferedInputFile.read("Java_IO/src/com/example/riven_chris/BasicFileOutPut.java")));
+15: 
+16: //        PrintWriter pw = new PrintWriter(new BufferedWriter(new FileWriter(file)));
+17:         PrintWriter pw = new PrintWriter(file);
+18: //        BufferedWriter pw = new BufferedWriter(new FileWriter(file));
+19: 
+20:         int lineCount = 1;
+21: 
+22:         String s;
+23: 
+24:         while ((s = br.readLine()) != null) {
+25:             pw.println(lineCount++ + ": " + s);
+26: //            pw.write(lineCount++ + ": " + s + "\n");
+27:         }
+28:         pw.close();
+29: 
+30:         System.out.println(BufferedInputFile.read(file));
+31:     }
+32: }

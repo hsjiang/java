@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Annotation/Annotation.iml" filepath="$PROJECT_DIR$/Annotation/Annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassInitail/ClassInitail.iml" filepath="$PROJECT_DIR$/ClassInitail/ClassInitail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Concurrent/Concurrent.iml" filepath="$PROJECT_DIR$/Concurrent/Concurrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enum/Enum.iml" filepath="$PROJECT_DIR$/Enum/Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Exceptions/Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExecutorTest/ExecutorTest.iml" filepath="$PROJECT_DIR$/ExecutorTest/ExecutorTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_IO/Java_IO.iml" filepath="$PROJECT_DIR$/Java_IO/Java_IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyProject/MyProject.iml" filepath="$PROJECT_DIR$/MyProject/MyProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyString/MyString.iml" filepath="$PROJECT_DIR$/MyString/MyString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RTTI/RTTI.iml" filepath="$PROJECT_DIR$/RTTI/RTTI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reflection/Reflection.iml" filepath="$PROJECT_DIR$/Reflection/Reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Regular expression/Regular expression.iml" filepath="$PROJECT_DIR$/Regular expression/Regular expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myProxy/myProxy.iml" filepath="$PROJECT_DIR$/myProxy/myProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paths/paths.iml" filepath="$PROJECT_DIR$/paths/paths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiebiantest/xiebiantest.iml" filepath="$PROJECT_DIR$/xiebiantest/xiebiantest.iml" />
+    </modules>
+  </component>
+</project>
