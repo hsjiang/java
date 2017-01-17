@@ -13,16 +13,25 @@ public class ClassInitialization {
 
     public static void main(String[] args) {
 //        int i = Initable2.staticFinal3;
-        Initable i[] = new Initable[]{};
+        Initable i[] = new Initable[]{};                         //定义数组不会引起初始化
 //        System.out.println(Initable.staticFinal4);
         Class initable = Initable.class;                         //不会引起类的初始化
-        System.out.println("after creating Initable ref");
-        System.out.println(Initable.staticFinal);
-        System.out.println(Initable.staticFinal2);
-        System.out.println(Initable2.staticFinal);
+//        System.out.println("after creating Initable ref");
+//        System.out.println(Initable.staticFinal);
+//        System.out.println(Initable.staticFinal1);
+//        System.out.println(Initable.staticFinal2);
+//        System.out.println(Initable.staticFinal3);
+//        System.out.println(Initable.staticFinal4);
+//        System.out.println(Initable.staticFinal5);
+//        System.out.println(Initable.staticFinal6);
+
+//        System.out.println(Initable2.staticFinal);
 
         try {
+            System.out.println("start test initable3");
             Class initable3 = Class.forName("Initable3");
+            System.out.println("obtained initable3.class");
+            System.out.println(initable3.getSimpleName());
             System.out.println("after creating Initable ref");
             System.out.println(Initable3.staticFinal);
         } catch (ClassNotFoundException e) {
@@ -42,10 +51,13 @@ public class ClassInitialization {
 }
 
 class Initable {
-    static final int staticFinal = 0;
-    static final int staticFinal2 = ClassInitialization.rand.nextInt(1000);
-    static int staticFinal3 = 0;
-    static final String staticFinal4 = null;
+    static final int staticFinal = 0;//不会引起初始化
+    static final int staticFinal1 = 1;//不会引起初始化
+    static final int staticFinal2 = ClassInitialization.rand.nextInt(1000);//会引起初始化
+    static int staticFinal3 = 3;//会引起初始化
+    static final String staticFinal4 = null;//会引起初始化 null非常量表达式
+    static final String staticFinal5 = "5";//不会引起初始化
+    static final String staticFinal6 = new String("6");//会引起初始化
     final int final1 = 2;
     final int final2 = new Integer(2);
     int i2 = 3;
@@ -67,7 +79,7 @@ class Initable {
     }
 }
 
-class Initable2 extends Initable{
+class Initable2 extends Initable {
     static int staticFinal = 147;
 
     static {
