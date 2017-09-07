@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/RTTI/RTTI.iml" filepath="$PROJECT_DIR$/RTTI/RTTI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Reflection/Reflection.iml" filepath="$PROJECT_DIR$/Reflection/Reflection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Regular expression/Regular expression.iml" filepath="$PROJECT_DIR$/Regular expression/Regular expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8Test/java8Test.iml" filepath="$PROJECT_DIR$/java8Test/java8Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/myProxy/myProxy.iml" filepath="$PROJECT_DIR$/myProxy/myProxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/paths/paths.iml" filepath="$PROJECT_DIR$/paths/paths.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
