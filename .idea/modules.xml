@@ -7,7 +7,6 @@
       <module fileurl="file://$PROJECT_DIR$/ClassInitail/ClassInitail.iml" filepath="$PROJECT_DIR$/ClassInitail/ClassInitail.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Concurrent/Concurrent.iml" filepath="$PROJECT_DIR$/Concurrent/Concurrent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/EffectiveJava/EffectiveJava.iml" filepath="$PROJECT_DIR$/EffectiveJava/EffectiveJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/Enum/Enum.iml" filepath="$PROJECT_DIR$/Enum/Enum.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Exceptions/Exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExecutorTest/ExecutorTest.iml" filepath="$PROJECT_DIR$/ExecutorTest/ExecutorTest.iml" />
