@@ -1,16 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0c8abc8d-f4cd-4e63-9657-19d784640548" name="Default" comment="commit">
-      <change afterPath="$PROJECT_DIR$/java8Test/src/com/riven_chris/static_and_defalut_method/Model2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Cache_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Cache_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cache/Cache.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cache/src/com/hsjiang/demo/CacheLinePadding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8Test/src/com/riven_chris/static_and_defalut_method/InvokeInterfaceMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8Test/src/com/riven_chris/static_and_defalut_method/InvokeInterfaceMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8Test/src/com/riven_chris/static_and_defalut_method/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8Test/src/com/riven_chris/static_and_defalut_method/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Annotation/classes/com/example/riven_chris/annotations/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Annotation/classes/com/example/riven_chris/annotations/UseCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Annotation/classes/com/example/riven_chris/classes/PasswordUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Annotation/classes/com/example/riven_chris/classes/UseCaseTracker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/classes/ArrayInitialize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/classes/MyArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Concurrent/classes/com/example/cooperation/WaxOMatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/Concurrent/classes/com/example/cooperation/WaxOMatic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Concurrent/classes/com/example/eventchecker/MutexEvenGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/Concurrent/classes/com/example/eventchecker/MutexEvenGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Concurrent/classes/com/example/interrupt/Blocked3.class" beforeDir="false" afterPath="$PROJECT_DIR$/Concurrent/classes/com/example/interrupt/Blocked3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Concurrent/classes/com/example/riven_chris/CallableDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Concurrent/classes/com/example/riven_chris/CallableDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Concurrent/classes/com/example/riven_chris/CaptureUncaughtException.class" beforeDir="false" afterPath="$PROJECT_DIR$/Concurrent/classes/com/example/riven_chris/CaptureUncaughtException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum/classes/EnumClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/classes/EnumClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum/classes/Shrubbery.class" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/classes/Shrubbery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exceptions/classes/Exceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/Exceptions/classes/Exceptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExecutorTest/classes/ExecutorTest$ExecutorThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExecutorTest/classes/ExecutorTest$ExecutorThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExecutorTest/classes/ExecutorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExecutorTest/classes/ExecutorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/classes/Widget.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/classes/Widget.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_IO/classes/com/example/riven_chris/BinaryFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java_IO/classes/com/example/riven_chris/BinaryFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_IO/classes/com/example/riven_chris/DirList.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java_IO/classes/com/example/riven_chris/DirList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/classes/com/example/riven_chris/SwapValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/MyProject/classes/com/example/riven_chris/SwapValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RTTI/classes/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/RTTI/classes/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RTTI/classes/Rhomboid.class" beforeDir="false" afterPath="$PROJECT_DIR$/RTTI/classes/Rhomboid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RTTI/classes/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/RTTI/classes/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RTTI/classes/Shapes.class" beforeDir="false" afterPath="$PROJECT_DIR$/RTTI/classes/Shapes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RTTI/classes/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/RTTI/classes/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RTTI/classes/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/RTTI/classes/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reflection/classes/Class1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Reflection/classes/Class1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reflection/classes/Class2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Reflection/classes/Class2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reflection/classes/MethodClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/Reflection/classes/MethodClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reflection/classes/ShowMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/Reflection/classes/ShowMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reflection/classes/SubMethodClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/Reflection/classes/SubMethodClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/AirFilter$Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/AirFilter$Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/AirFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/AirFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/BaseFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/BaseFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Belt.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/Belt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/CabinAirFilter$Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/CabinAirFilter$Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/CabinAirFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/CabinAirFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Callee2.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/Callee2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/ClassInitialization.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/ClassInitialization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/FanBelt$Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/FanBelt$Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/FanBelt.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/FanBelt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Filter.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/Filter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/FuelFilter$Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/FuelFilter$Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/FuelFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/FuelFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/GeneratorBelt$Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/GeneratorBelt$Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/GeneratorBelt.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/GeneratorBelt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/InheritInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/InheritInner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Initable.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/Initable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Initable2.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/Initable2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Initable3.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/Initable3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/InnerTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/InnerTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/OilFilter$Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/OilFilter$Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/OilFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/OilFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Parcel11.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/Parcel11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Part.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/Part.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/PartFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/PartFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/PathsClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/PathsClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/PowerSteeringBelt$Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/PowerSteeringBelt$Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/PowerSteeringBelt.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/PowerSteeringBelt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Select" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/ShowMethods$InnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/ShowMethods$InnerClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/ShowMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/ShowMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/WithInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/WithInner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/com/example/Countries$FlyweightMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/com/example/Countries$FlyweightMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/com/example/Countries.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/com/example/Countries.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/com/example/collection/MyCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/com/example/collection/MyCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/com/example/hashCode/CountedString.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/com/example/hashCode/CountedString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/com/example/map/MapBehavior.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/com/example/map/MapBehavior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/com/example/map/MapEntry.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/com/example/map/MapEntry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/com/example/queue/QueueBehavior.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/com/example/queue/QueueBehavior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/package1/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/package1/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/package1/HiddenImplementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/package1/HiddenImplementation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/package1/InnerPathsClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/package1/InnerPathsClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/package2/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/package2/C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/package2/HiddenC.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/package2/HiddenC.class" afterDir="false" />
     </list>
-    <ignored path="workspace.iws" />
-    <ignored path=".idea/workspace.xml" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,79 +105,15 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="428189540">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="149" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="149" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="workspace" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java8Test/src/com/riven_chris/static_and_defalut_method/Model2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-              <folding>
-                <element signature="e#133#134#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java8Test/src/com/riven_chris/static_and_defalut_method/Model.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-              <folding>
-                <element signature="e#143#144#0" expanded="true" />
-                <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#281#282#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="AnnotationType" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -165,12 +182,8 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="Bundled (Maven 3)" />
-      </MavenGeneralSettings>
-    </option>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenProjectNavigator">
     <treeState />
@@ -179,6 +192,7 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectId" id="2IerVymZvyBAMPEjb70g9fjOG3v" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -204,6 +218,10 @@
       <pane id="AndroidView" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -211,9 +229,13 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537864824551" />
     <property name="dynamic.classpath" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="options.lastSelected" value="project.propGUI" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -221,7 +243,6 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="recentsLimit" value="5" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -230,19 +251,7 @@
       <recent name="$PROJECT_DIR$/Exceptions" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.InvokeInterfaceMethod">
+  <component name="RunManager" selected="Application.CacheLinePadding">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -279,6 +288,12 @@
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
       <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -333,12 +348,6 @@
       <Host>localhost</Host>
       <Port>5050</Port>
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="BufferTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.BufferTest" />
       <module name="Java_IO" />
@@ -367,13 +376,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Endians" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.newio.Endians" />
-      <module name="Java_IO" />
+    <configuration name="CacheLinePadding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hsjiang.demo.CacheLinePadding" />
+      <module name="Cache" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.newio.*" />
+          <option name="PATTERN" value="com.hsjiang.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -438,6 +447,7 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="moduleWithDependencies" />
@@ -446,7 +456,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="moduleWithDependencies" />
@@ -457,24 +468,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tomcat 10.0.23" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.0.23" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="Cache:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Cache_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Cache:war exploded" />
+        </option>
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.MyListIteratorTest" />
       <item itemvalue="Application.TestRegularExpression" />
-      <item itemvalue="Application.Endians" />
       <item itemvalue="Application.BufferToText" />
       <item itemvalue="Application.BufferTest" />
       <item itemvalue="Application.Lambdas2" />
       <item itemvalue="Application.InvokeInterfaceMethod" />
+      <item itemvalue="Application.CacheLinePadding" />
+      <item itemvalue="Tomcat Server.Tomcat 10.0.23" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CacheLinePadding" />
         <item itemvalue="Application.InvokeInterfaceMethod" />
         <item itemvalue="Application.Lambdas2" />
         <item itemvalue="Application.BufferTest" />
         <item itemvalue="Application.BufferToText" />
-        <item itemvalue="Application.Endians" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -486,6 +523,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1429439075134</updated>
+      <workItem from="1670552918869" duration="1328000" />
+      <workItem from="1670563413244" duration="1920000" />
+      <workItem from="1670797714841" duration="605000" />
+      <workItem from="1670801625803" duration="22000" />
+      <workItem from="1670937179197" duration="1006000" />
+      <workItem from="1670967762948" duration="2207000" />
+      <workItem from="1670973487671" duration="704000" />
+      <workItem from="1670974206257" duration="504000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1484654953497</created>
@@ -540,6 +585,20 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
       <collection />
@@ -547,9 +606,6 @@
     <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
